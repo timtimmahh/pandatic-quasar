@@ -37,3 +37,4 @@ yarn-error.log*
 .prettierrc
 .vscode/
 yarn.lock
+src/statics/firebase-config.ts
